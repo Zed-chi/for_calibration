@@ -1,2 +1,9 @@
-# for_calibration
-util
+# Калибровка
+
+Утилита для упрощения записи и расчета при калибровке приборов в лаборатории.
+
+### Установка
+- Требуется Python От 3.6
+- `pip install -r requirements.txt` или `pipenv install`
+- запуск файла `calibrate.py`
+- Следование шагам
